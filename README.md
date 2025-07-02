@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aryankumar83/Leetcode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/aryankumar83/Leetcode/tree/master/0012-integer-to-roman) |
 | [1129-longest-string-chain](https://github.com/aryankumar83/Leetcode/tree/master/1129-longest-string-chain) |
 ## Two Pointers
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/aryankumar83/Leetcode/tree/master/0012-integer-to-roman) |
 | [1129-longest-string-chain](https://github.com/aryankumar83/Leetcode/tree/master/1129-longest-string-chain) |
 ## Dynamic Programming
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/aryankumar83/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aryankumar83/Leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/aryankumar83/Leetcode/tree/master/0012-integer-to-roman) |
 | [1013-fibonacci-number](https://github.com/aryankumar83/Leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
