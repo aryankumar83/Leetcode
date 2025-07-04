@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/aryankumar83/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aryankumar83/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aryankumar83/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/aryankumar83/Leetcode/tree/master/0069-sqrtx) |
 | [0792-binary-search](https://github.com/aryankumar83/Leetcode/tree/master/0792-binary-search) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/aryankumar83/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Hash Table
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/aryankumar83/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/aryankumar83/Leetcode/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/aryankumar83/Leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/aryankumar83/Leetcode/tree/master/0069-sqrtx) |
 | [1013-fibonacci-number](https://github.com/aryankumar83/Leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
