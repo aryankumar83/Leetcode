@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aryankumar83/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/aryankumar83/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/aryankumar83/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/aryankumar83/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aryankumar83/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aryankumar83/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/aryankumar83/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aryankumar83/Leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/aryankumar83/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/aryankumar83/Leetcode/tree/master/0067-add-binary) |
 | [1129-longest-string-chain](https://github.com/aryankumar83/Leetcode/tree/master/1129-longest-string-chain) |
 ## Dynamic Programming
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/aryankumar83/Leetcode/tree/master/0067-add-binary) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/aryankumar83/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
