@@ -4,7 +4,7 @@ public:
         for(int i=0 ; i<nums.size() ; i++){
             for(int j=i+1 ; j<nums.size() ; j++){
                 if(j-i > k) break;
-                if(nums[i] == nums[j] && j-i <=k) return true;
+                if(nums[i] == nums[j]) return true;
             }
         }
         return false;
