@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/aryankumar83/Leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/aryankumar83/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/aryankumar83/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/aryankumar83/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0792-binary-search](https://github.com/aryankumar83/Leetcode/tree/master/0792-binary-search) |
 | [1129-longest-string-chain](https://github.com/aryankumar83/Leetcode/tree/master/1129-longest-string-chain) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/aryankumar83/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/aryankumar83/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aryankumar83/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aryankumar83/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0496-next-greater-element-i](https://github.com/aryankumar83/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1129-longest-string-chain](https://github.com/aryankumar83/Leetcode/tree/master/1129-longest-string-chain) |
 ## Two Pointers
 |  |
@@ -136,4 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/aryankumar83/Leetcode/tree/master/0455-assign-cookies) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/aryankumar83/Leetcode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/aryankumar83/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
