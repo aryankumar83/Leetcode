@@ -10,7 +10,6 @@ public:
         for(auto i : s){
             cnt++;
         }
-        int ans = min(n/2 , cnt);
-        return ans;
+        return min(n/2 , cnt);
     }
 };
