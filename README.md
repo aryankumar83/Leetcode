@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/aryankumar83/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/aryankumar83/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/aryankumar83/Leetcode/tree/master/0792-binary-search) |
+| [0822-unique-morse-code-words](https://github.com/aryankumar83/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [1129-longest-string-chain](https://github.com/aryankumar83/Leetcode/tree/master/1129-longest-string-chain) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/aryankumar83/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Bit Manipulation
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/aryankumar83/Leetcode/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/aryankumar83/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/aryankumar83/Leetcode/tree/master/0645-set-mismatch) |
+| [0822-unique-morse-code-words](https://github.com/aryankumar83/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [1129-longest-string-chain](https://github.com/aryankumar83/Leetcode/tree/master/1129-longest-string-chain) |
 ## Two Pointers
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/aryankumar83/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/aryankumar83/Leetcode/tree/master/0067-add-binary) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/aryankumar83/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0822-unique-morse-code-words](https://github.com/aryankumar83/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [1129-longest-string-chain](https://github.com/aryankumar83/Leetcode/tree/master/1129-longest-string-chain) |
 ## Dynamic Programming
 |  |
