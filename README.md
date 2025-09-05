@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/aryankumar83/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/aryankumar83/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/aryankumar83/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
+| [0890-lemonade-change](https://github.com/aryankumar83/Leetcode/tree/master/0890-lemonade-change) |
 | [1129-longest-string-chain](https://github.com/aryankumar83/Leetcode/tree/master/1129-longest-string-chain) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/aryankumar83/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Bit Manipulation
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/aryankumar83/Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/aryankumar83/Leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/aryankumar83/Leetcode/tree/master/0605-can-place-flowers) |
+| [0890-lemonade-change](https://github.com/aryankumar83/Leetcode/tree/master/0890-lemonade-change) |
 ## Stack
 |  |
 | ------- |
