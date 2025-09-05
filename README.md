@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/aryankumar83/Leetcode/tree/master/0792-binary-search) |
 | [0822-unique-morse-code-words](https://github.com/aryankumar83/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/aryankumar83/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
+| [0841-shortest-distance-to-a-character](https://github.com/aryankumar83/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [1129-longest-string-chain](https://github.com/aryankumar83/Leetcode/tree/master/1129-longest-string-chain) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/aryankumar83/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Bit Manipulation
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/aryankumar83/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aryankumar83/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/aryankumar83/Leetcode/tree/master/0455-assign-cookies) |
+| [0841-shortest-distance-to-a-character](https://github.com/aryankumar83/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [1129-longest-string-chain](https://github.com/aryankumar83/Leetcode/tree/master/1129-longest-string-chain) |
 ## String
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/aryankumar83/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0822-unique-morse-code-words](https://github.com/aryankumar83/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/aryankumar83/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
+| [0841-shortest-distance-to-a-character](https://github.com/aryankumar83/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [1129-longest-string-chain](https://github.com/aryankumar83/Leetcode/tree/master/1129-longest-string-chain) |
 ## Dynamic Programming
 |  |
