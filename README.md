@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/aryankumar83/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0890-lemonade-change](https://github.com/aryankumar83/Leetcode/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/aryankumar83/Leetcode/tree/master/0898-transpose-matrix) |
+| [0924-fair-candy-swap](https://github.com/aryankumar83/Leetcode/tree/master/0924-fair-candy-swap) |
 | [1129-longest-string-chain](https://github.com/aryankumar83/Leetcode/tree/master/1129-longest-string-chain) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/aryankumar83/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Bit Manipulation
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/aryankumar83/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/aryankumar83/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/aryankumar83/Leetcode/tree/master/0792-binary-search) |
+| [0924-fair-candy-swap](https://github.com/aryankumar83/Leetcode/tree/master/0924-fair-candy-swap) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/aryankumar83/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Hash Table
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/aryankumar83/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/aryankumar83/Leetcode/tree/master/0645-set-mismatch) |
 | [0822-unique-morse-code-words](https://github.com/aryankumar83/Leetcode/tree/master/0822-unique-morse-code-words) |
+| [0924-fair-candy-swap](https://github.com/aryankumar83/Leetcode/tree/master/0924-fair-candy-swap) |
 | [1129-longest-string-chain](https://github.com/aryankumar83/Leetcode/tree/master/1129-longest-string-chain) |
 ## Two Pointers
 |  |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/aryankumar83/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/aryankumar83/Leetcode/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/aryankumar83/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0924-fair-candy-swap](https://github.com/aryankumar83/Leetcode/tree/master/0924-fair-candy-swap) |
 | [1129-longest-string-chain](https://github.com/aryankumar83/Leetcode/tree/master/1129-longest-string-chain) |
 ## Math
 |  |
