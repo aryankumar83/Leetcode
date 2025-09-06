@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-delete-columns-to-make-sorted](https://github.com/aryankumar83/Leetcode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/aryankumar83/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/aryankumar83/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/aryankumar83/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1129-longest-string-chain](https://github.com/aryankumar83/Leetcode/tree/master/1129-longest-string-chain) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/aryankumar83/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Bit Manipulation
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/aryankumar83/Leetcode/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/aryankumar83/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/aryankumar83/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/aryankumar83/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1129-longest-string-chain](https://github.com/aryankumar83/Leetcode/tree/master/1129-longest-string-chain) |
 ## Math
 |  |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/aryankumar83/Leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/aryankumar83/Leetcode/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/aryankumar83/Leetcode/tree/master/0890-lemonade-change) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/aryankumar83/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 ## Stack
 |  |
 | ------- |
