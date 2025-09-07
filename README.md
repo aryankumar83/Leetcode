@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/aryankumar83/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1127-last-stone-weight](https://github.com/aryankumar83/Leetcode/tree/master/1127-last-stone-weight) |
 | [1129-longest-string-chain](https://github.com/aryankumar83/Leetcode/tree/master/1129-longest-string-chain) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/aryankumar83/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/aryankumar83/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Bit Manipulation
 |  |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/aryankumar83/Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryankumar83/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/aryankumar83/Leetcode/tree/master/1013-fibonacci-number) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/aryankumar83/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Recursion
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/aryankumar83/Leetcode/tree/master/0067-add-binary) |
 | [0898-transpose-matrix](https://github.com/aryankumar83/Leetcode/tree/master/0898-transpose-matrix) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/aryankumar83/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Trie
 |  |
 | ------- |
