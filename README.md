@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/aryankumar83/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/aryankumar83/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/aryankumar83/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/aryankumar83/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/aryankumar83/Leetcode/tree/master/0792-binary-search) |
 | [0924-fair-candy-swap](https://github.com/aryankumar83/Leetcode/tree/master/0924-fair-candy-swap) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/aryankumar83/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/aryankumar83/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/aryankumar83/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/aryankumar83/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1129-longest-string-chain](https://github.com/aryankumar83/Leetcode/tree/master/1129-longest-string-chain) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/aryankumar83/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Math
 |  |
 | ------- |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0506-relative-ranks](https://github.com/aryankumar83/Leetcode/tree/master/0506-relative-ranks) |
 | [1127-last-stone-weight](https://github.com/aryankumar83/Leetcode/tree/master/1127-last-stone-weight) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/aryankumar83/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Counting Sort
 |  |
 | ------- |
@@ -226,4 +230,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0898-transpose-matrix](https://github.com/aryankumar83/Leetcode/tree/master/0898-transpose-matrix) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/aryankumar83/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/aryankumar83/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 <!---LeetCode Topics End-->
