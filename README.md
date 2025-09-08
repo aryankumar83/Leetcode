@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/aryankumar83/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/aryankumar83/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/aryankumar83/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/aryankumar83/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/aryankumar83/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1129-longest-string-chain](https://github.com/aryankumar83/Leetcode/tree/master/1129-longest-string-chain) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/aryankumar83/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/aryankumar83/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/aryankumar83/Leetcode/tree/master/0561-array-partition) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/aryankumar83/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/aryankumar83/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Matrix
 |  |
 | ------- |
