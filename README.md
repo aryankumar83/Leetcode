@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/aryankumar83/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/aryankumar83/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0749-shortest-completing-word](https://github.com/aryankumar83/Leetcode/tree/master/0749-shortest-completing-word) |
+| [0777-toeplitz-matrix](https://github.com/aryankumar83/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/aryankumar83/Leetcode/tree/master/0792-binary-search) |
 | [0822-unique-morse-code-words](https://github.com/aryankumar83/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/aryankumar83/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/aryankumar83/Leetcode/tree/master/0566-reshape-the-matrix) |
+| [0777-toeplitz-matrix](https://github.com/aryankumar83/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/aryankumar83/Leetcode/tree/master/0898-transpose-matrix) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/aryankumar83/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/aryankumar83/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
