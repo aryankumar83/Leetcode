@@ -3,9 +3,12 @@ public:
     bool canBeEqual(vector<int>& target, vector<int>& arr) {
         sort(arr.begin() , arr.end());
         sort(target.begin() , target.end());
+        /*
         for(int i=0 ; i<arr.size() ; i++){
             if(arr[i] != target[i])return false;
         }
+        */
+        if(arr != target)return false;
         return true;
     }
 };
