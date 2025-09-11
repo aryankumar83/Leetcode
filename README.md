@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-create-target-array-in-the-given-order](https://github.com/aryankumar83/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/aryankumar83/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/aryankumar83/Leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1547-destination-city](https://github.com/aryankumar83/Leetcode/tree/master/1547-destination-city) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/aryankumar83/Leetcode/tree/master/1129-longest-string-chain) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/aryankumar83/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/aryankumar83/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1547-destination-city](https://github.com/aryankumar83/Leetcode/tree/master/1547-destination-city) |
 ## Two Pointers
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/aryankumar83/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0981-delete-columns-to-make-sorted](https://github.com/aryankumar83/Leetcode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1129-longest-string-chain](https://github.com/aryankumar83/Leetcode/tree/master/1129-longest-string-chain) |
+| [1547-destination-city](https://github.com/aryankumar83/Leetcode/tree/master/1547-destination-city) |
 ## Dynamic Programming
 |  |
 | ------- |
