@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/aryankumar83/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/aryankumar83/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/aryankumar83/Leetcode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/aryankumar83/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/aryankumar83/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/aryankumar83/Leetcode/tree/master/1580-shuffle-the-array) |
 ## Bit Manipulation
@@ -257,10 +258,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/aryankumar83/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/aryankumar83/Leetcode/tree/master/0682-baseball-game) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/aryankumar83/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/aryankumar83/Leetcode/tree/master/0496-next-greater-element-i) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/aryankumar83/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
