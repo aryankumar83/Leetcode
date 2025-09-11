@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/aryankumar83/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/aryankumar83/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/aryankumar83/Leetcode/tree/master/1580-shuffle-the-array) |
+| [1646-kth-missing-positive-number](https://github.com/aryankumar83/Leetcode/tree/master/1646-kth-missing-positive-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/aryankumar83/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/aryankumar83/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/aryankumar83/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1646-kth-missing-positive-number](https://github.com/aryankumar83/Leetcode/tree/master/1646-kth-missing-positive-number) |
 ## Hash Table
 |  |
 | ------- |
