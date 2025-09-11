@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/aryankumar83/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/aryankumar83/Leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1547-destination-city](https://github.com/aryankumar83/Leetcode/tree/master/1547-destination-city) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/aryankumar83/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 ## Bit Manipulation
 |  |
 | ------- |
