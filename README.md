@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/aryankumar83/Leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1547-destination-city](https://github.com/aryankumar83/Leetcode/tree/master/1547-destination-city) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/aryankumar83/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/aryankumar83/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/aryankumar83/Leetcode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 ## Bit Manipulation
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/aryankumar83/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/aryankumar83/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1547-destination-city](https://github.com/aryankumar83/Leetcode/tree/master/1547-destination-city) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/aryankumar83/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/aryankumar83/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/aryankumar83/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/aryankumar83/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/aryankumar83/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Math
 |  |
 | ------- |
