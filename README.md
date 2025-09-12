@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/aryankumar83/Leetcode/tree/master/0924-fair-candy-swap) |
 | [0932-monotonic-array](https://github.com/aryankumar83/Leetcode/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/aryankumar83/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [0944-smallest-range-i](https://github.com/aryankumar83/Leetcode/tree/master/0944-smallest-range-i) |
 | [0978-valid-mountain-array](https://github.com/aryankumar83/Leetcode/tree/master/0978-valid-mountain-array) |
 | [0981-delete-columns-to-make-sorted](https://github.com/aryankumar83/Leetcode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/aryankumar83/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/aryankumar83/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/aryankumar83/Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryankumar83/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0944-smallest-range-i](https://github.com/aryankumar83/Leetcode/tree/master/0944-smallest-range-i) |
 | [1013-fibonacci-number](https://github.com/aryankumar83/Leetcode/tree/master/1013-fibonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/aryankumar83/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/aryankumar83/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
