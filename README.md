@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/aryankumar83/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1646-kth-missing-positive-number](https://github.com/aryankumar83/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/aryankumar83/Leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/aryankumar83/Leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/aryankumar83/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/aryankumar83/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/aryankumar83/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/aryankumar83/Leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 ## Math
 |  |
 | ------- |
