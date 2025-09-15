@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/aryankumar83/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/aryankumar83/Leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1755-defuse-the-bomb](https://github.com/aryankumar83/Leetcode/tree/master/1755-defuse-the-bomb) |
+| [1829-maximum-units-on-a-truck](https://github.com/aryankumar83/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/aryankumar83/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/aryankumar83/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/aryankumar83/Leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [1829-maximum-units-on-a-truck](https://github.com/aryankumar83/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 ## Math
 |  |
 | ------- |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/aryankumar83/Leetcode/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/aryankumar83/Leetcode/tree/master/0890-lemonade-change) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/aryankumar83/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1829-maximum-units-on-a-truck](https://github.com/aryankumar83/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 ## Stack
 |  |
 | ------- |
