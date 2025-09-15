@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/aryankumar83/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/aryankumar83/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/aryankumar83/Leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [1755-defuse-the-bomb](https://github.com/aryankumar83/Leetcode/tree/master/1755-defuse-the-bomb) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/aryankumar83/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/aryankumar83/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/aryankumar83/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1755-defuse-the-bomb](https://github.com/aryankumar83/Leetcode/tree/master/1755-defuse-the-bomb) |
 ## Greedy
 |  |
 | ------- |
