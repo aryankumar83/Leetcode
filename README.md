@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/aryankumar83/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1829-maximum-units-on-a-truck](https://github.com/aryankumar83/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1899-count-items-matching-a-rule](https://github.com/aryankumar83/Leetcode/tree/master/1899-count-items-matching-a-rule) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/aryankumar83/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-destination-city](https://github.com/aryankumar83/Leetcode/tree/master/1547-destination-city) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/aryankumar83/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/aryankumar83/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/aryankumar83/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/aryankumar83/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/aryankumar83/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/aryankumar83/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/aryankumar83/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Recursion
 |  |
 | ------- |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/aryankumar83/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/aryankumar83/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/aryankumar83/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/aryankumar83/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Matrix
 |  |
 | ------- |
@@ -320,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/aryankumar83/Leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+## Number Theory
+|  |
+| ------- |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/aryankumar83/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 <!---LeetCode Topics End-->
