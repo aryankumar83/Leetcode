@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/aryankumar83/Leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1755-defuse-the-bomb](https://github.com/aryankumar83/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1829-maximum-units-on-a-truck](https://github.com/aryankumar83/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
+| [1899-count-items-matching-a-rule](https://github.com/aryankumar83/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-verifying-an-alien-dictionary](https://github.com/aryankumar83/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1129-longest-string-chain](https://github.com/aryankumar83/Leetcode/tree/master/1129-longest-string-chain) |
 | [1547-destination-city](https://github.com/aryankumar83/Leetcode/tree/master/1547-destination-city) |
+| [1899-count-items-matching-a-rule](https://github.com/aryankumar83/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 ## Dynamic Programming
 |  |
 | ------- |
