@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/aryankumar83/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1829-maximum-units-on-a-truck](https://github.com/aryankumar83/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1899-count-items-matching-a-rule](https://github.com/aryankumar83/Leetcode/tree/master/1899-count-items-matching-a-rule) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/aryankumar83/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/aryankumar83/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3934-coupon-code-validator](https://github.com/aryankumar83/Leetcode/tree/master/3934-coupon-code-validator) |
 ## Bit Manipulation
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/aryankumar83/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/aryankumar83/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/aryankumar83/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/aryankumar83/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/aryankumar83/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Recursion
 |  |
