@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/aryankumar83/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/aryankumar83/Leetcode/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/aryankumar83/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2502-sort-the-people](https://github.com/aryankumar83/Leetcode/tree/master/2502-sort-the-people) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/aryankumar83/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3934-coupon-code-validator](https://github.com/aryankumar83/Leetcode/tree/master/3934-coupon-code-validator) |
 ## Bit Manipulation
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-destination-city](https://github.com/aryankumar83/Leetcode/tree/master/1547-destination-city) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/aryankumar83/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/aryankumar83/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2502-sort-the-people](https://github.com/aryankumar83/Leetcode/tree/master/2502-sort-the-people) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/aryankumar83/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3934-coupon-code-validator](https://github.com/aryankumar83/Leetcode/tree/master/3934-coupon-code-validator) |
 ## Two Pointers
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/aryankumar83/Leetcode/tree/master/1129-longest-string-chain) |
 | [1547-destination-city](https://github.com/aryankumar83/Leetcode/tree/master/1547-destination-city) |
 | [1899-count-items-matching-a-rule](https://github.com/aryankumar83/Leetcode/tree/master/1899-count-items-matching-a-rule) |
+| [2502-sort-the-people](https://github.com/aryankumar83/Leetcode/tree/master/2502-sort-the-people) |
 | [3934-coupon-code-validator](https://github.com/aryankumar83/Leetcode/tree/master/3934-coupon-code-validator) |
 ## Dynamic Programming
 |  |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/aryankumar83/Leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1829-maximum-units-on-a-truck](https://github.com/aryankumar83/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/aryankumar83/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2502-sort-the-people](https://github.com/aryankumar83/Leetcode/tree/master/2502-sort-the-people) |
 | [3934-coupon-code-validator](https://github.com/aryankumar83/Leetcode/tree/master/3934-coupon-code-validator) |
 ## Math
 |  |
